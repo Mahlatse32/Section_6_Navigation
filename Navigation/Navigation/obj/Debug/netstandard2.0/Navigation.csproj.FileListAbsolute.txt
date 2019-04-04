@@ -3,6 +3,7 @@ C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandar
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.pdb
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csprojAssemblyReference.cache
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\CarouselPageDemo.xaml.g.cs
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ContactDetailPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ContactPage.xaml.g.cs
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ContentPage1.xaml.g.cs
@@ -16,3 +17,5 @@ C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandar
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.dll
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.pdb
+C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\DisplayPopUp.xaml.g.cs
+C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ToolBarItem.xaml.g.cs

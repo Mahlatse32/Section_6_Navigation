@@ -102,6 +102,8 @@ C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81\android\assets\System.Xml.pdb
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.dll
+C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\bin\Debug\Navigation.dll.mdb
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81\linksrc\Navigation.dll.mdb
 C:\Users\mahlatset\Desktop\Navigation\Navigation\Navigation.Android\obj\Debug\81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

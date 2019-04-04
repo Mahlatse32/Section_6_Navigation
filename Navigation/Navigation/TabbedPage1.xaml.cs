@@ -15,6 +15,8 @@ namespace Navigation
         public TabbedPage1()
         {
             InitializeComponent();
+
+            new NavigationPage(new ContactPage());
         }
     }
 }

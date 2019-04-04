@@ -1,11 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:Navigation"
              x:Class="Navigation.MainPage">
+            <local:ContactPage Title="Contacts"/>
 
-    <StackLayout>
-   
-    </StackLayout>
+    <NavigationPage Title="Page 1">
+        <x:Arguments>
+            <ContentPage >
+                <Label Text="Content of Page 1" HorizontalOptions="Center" VerticalOptions="Center"/>
+            </ContentPage>
+        </x:Arguments>
+    </NavigationPage>
 
-</ContentPage>
+    <ContentPage Title="Page 2">
+        <Label Text="Content of Page21" HorizontalOptions="Center" VerticalOptions="Center"/>
+    </ContentPage>
+    
+
+</TabbedPage>
