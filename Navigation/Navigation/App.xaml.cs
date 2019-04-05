@@ -11,7 +11,7 @@ namespace Navigation
         {
             InitializeComponent();
 
-            MainPage = new ToolBarItem();
+            MainPage = new NavigationPage(new ToolBarItem());
         }
 
         protected override void OnStart()

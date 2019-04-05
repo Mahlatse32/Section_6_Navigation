@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Android.Graphics.Drawables;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,5 +17,10 @@ namespace Navigation
 		{
 			InitializeComponent ();
 		}
-	}
+
+        private void ToolbarItem_Activated(object sender, EventArgs e)
+        {
+            DisplayAlert("Activated", "ToolbarItem activated", "OK");
+        }
+    }
 }

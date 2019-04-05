@@ -5,7 +5,8 @@
              Title="Contacts">
 
     <ContentPage.ToolbarItems>
-        
+        <ToolbarItem Icon Text="new"  Activated="ToolbarItem_Activated" Order="Primary"/>
+        <ToolbarItem Icon="EmbeddedImage Navigation.Images.plus.png" Text="new" Activated="ToolbarItem_Activated" Order="Secondary"/>
     </ContentPage.ToolbarItems>
     
 </ContentPage>
